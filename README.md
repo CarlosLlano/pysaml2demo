@@ -65,5 +65,8 @@ Una vez se realicen estos cambios se debera generar la metadata del idp
 python tools/make_metadata.py example/idp2/idp_conf.py
 ```
 
+**Demostracion**
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/17281733/35593282-72c60928-05dd-11e8-9b28-eb32e2e31abe.gif)
 
 
