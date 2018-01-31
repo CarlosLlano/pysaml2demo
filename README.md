@@ -2,7 +2,7 @@
 
 ![saml diagram](https://user-images.githubusercontent.com/17281733/35592180-3e76fe96-05da-11e8-8089-154c565e21f3.png)
 
-**basado en:** https://github.com/rohe/pysaml2
+**basado en:** https://github.com/rohe/pysaml2, https://pysaml2.readthedocs.io/en/latest/install.html
 
 **comandos:**
 
